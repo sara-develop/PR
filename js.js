@@ -2,6 +2,7 @@ const a = () => {
     alert("function a")
 }
 
-const c = () => {
-    alert("function c,master")
+const d = () => {
+    alert("function d,feature_2")
 }
+
